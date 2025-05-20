@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="137e7260-ce0a-4e39-9639-fc6aedf8ef00" name="Changes" comment="Yaml 파일 수정" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="discodeit" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vChKGLAvlbJkB9xkHnW5Z3OUzB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.2-sprint-mission 빌드.executor": "Run",
+    "Gradle.AssertJCheckTest.assertj_is_working.executor": "Run",
+    "Gradle.BasicUserServiceTest.executor": "Run",
+    "Gradle.Build 2-sprint-mission.executor": "Run",
+    "Gradle.UserRepositoryTest.executor": "Run",
+    "JUnit.BasicUserServiceTest.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.DiscodeitApplication.executor": "Run",
+    "git-widget-placeholder": "part3-허재석-sprint7",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Subversion.Network",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DiscodeitApplication">
+    <configuration name="AssertJCheckTest.assertj_is_working" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.AssertJCheckTest.assertj_is_working&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="BasicUserServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.sprint.mission.discodeit.service.basic.BasicUserServiceTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRepositoryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.sprint.mission.discodeit.repository.UserRepositoryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="BasicUserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="discodeit.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sprint.mission.discodeit.service.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sprint.mission.discodeit.service.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.sprint.mission.discodeit.service.basic.BasicUserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DiscodeitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discodeit.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sprint.mission.discodeit.DiscodeitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.UserRepositoryTest" />
+        <item itemvalue="Gradle.BasicUserServiceTest" />
+        <item itemvalue="Gradle.AssertJCheckTest.assertj_is_working" />
+        <item itemvalue="JUnit.BasicUserServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="137e7260-ce0a-4e39-9639-fc6aedf8ef00" name="Changes" comment="" />
+      <created>1743654898078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743654898078</updated>
+      <workItem from="1743654899800" duration="238000" />
+      <workItem from="1743655141038" duration="8122000" />
+      <workItem from="1744589373509" duration="27512000" />
+      <workItem from="1744675215977" duration="20290000" />
+      <workItem from="1744848432651" duration="7601000" />
+      <workItem from="1744863195581" duration="9413000" />
+      <workItem from="1744952771446" duration="4366000" />
+      <workItem from="1746606322091" duration="2317000" />
+      <workItem from="1746690368172" duration="717000" />
+      <workItem from="1746691942665" duration="2663000" />
+      <workItem from="1746695213596" duration="25714000" />
+    </task>
+    <task id="LOCAL-00001" summary="고급 구현 과정">
+      <option name="closed" value="true" />
+      <created>1743662781051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743662781051</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Server 8080 포트 수정">
+      <option name="closed" value="true" />
+      <created>1743667256308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743667256308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MessageController API 노테이션 전체적으로 수정">
+      <option name="closed" value="true" />
+      <created>1743669824530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743669824530</updated>
+    </task>
+    <task id="LOCAL-00004" summary="데이터베이스, DDL 파일 구현 완료">
+      <option name="closed" value="true" />
+      <created>1744596413794</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744596413794</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Spring Data JPA 적용하기">
+      <option name="closed" value="true" />
+      <created>1744597082062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744597082062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="엔티티 정의하기">
+      <option name="closed" value="true" />
+      <created>1744625385365</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744625385365</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DTO, Mapper 컴포넌트 정의">
+      <option name="closed" value="true" />
+      <created>1744866729844</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744866729844</updated>
+    </task>
+    <task id="LOCAL-00008" summary="BinaryContent 저장 로직 고도화">
+      <option name="closed" value="true" />
+      <created>1745160455705</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745160455705</updated>
+    </task>
+    <task id="LOCAL-00009" summary="베이스 코드로 리베이스">
+      <option name="closed" value="true" />
+      <created>1746606793968</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746606793968</updated>
+    </task>
+    <task id="LOCAL-00010" summary="yaml 프로 파일 생성">
+      <option name="closed" value="true" />
+      <created>1746607118895</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746607118895</updated>
+    </task>
+    <task id="LOCAL-00011" summary="logback-spring.xml 생성과, BasicUserService 로깅추가">
+      <option name="closed" value="true" />
+      <created>1746610346431</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746610346431</updated>
+    </task>
+    <task id="LOCAL-00012" summary="BasicAuthService 로깅 추가">
+      <option name="closed" value="true" />
+      <created>1746610796220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746610796220</updated>
+    </task>
+    <task id="LOCAL-00013" summary="BasicBinaryContentService 로깅추가">
+      <option name="closed" value="true" />
+      <created>1746611533454</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746611533454</updated>
+    </task>
+    <task id="LOCAL-00014" summary="BasicChannelService 로깅 추가">
+      <option name="closed" value="true" />
+      <created>1746667668491</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746667668491</updated>
+    </task>
+    <task id="LOCAL-00015" summary="BasicMessageService 로깅 추가">
+      <option name="closed" value="true" />
+      <created>1746670393633</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746670393633</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Exception 핸들링 처리">
+      <option name="closed" value="true" />
+      <created>1746686034465</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746686034465</updated>
+    </task>
+    <task id="LOCAL-00017" summary="UserRepositoryTest 테스트">
+      <option name="closed" value="true" />
+      <created>1746765047131</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1746765047131</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Yaml 파일 수정">
+      <option name="closed" value="true" />
+      <created>1747026251686</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747026251687</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="part3-허재석-sprint7" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="고급 구현 과정" />
+    <MESSAGE value="Server 8080 포트 수정" />
+    <MESSAGE value="MessageController API 노테이션 전체적으로 수정" />
+    <MESSAGE value="데이터베이스, DDL 파일 구현 완료" />
+    <MESSAGE value="Spring Data JPA 적용하기" />
+    <MESSAGE value="엔티티 정의하기" />
+    <MESSAGE value="DTO, Mapper 컴포넌트 정의" />
+    <MESSAGE value="BinaryContent 저장 로직 고도화" />
+    <MESSAGE value="베이스 코드로 리베이스" />
+    <MESSAGE value="yaml 프로 파일 생성" />
+    <MESSAGE value="logback-spring.xml 생성과, BasicUserService 로깅추가" />
+    <MESSAGE value="BasicAuthService 로깅 추가" />
+    <MESSAGE value="BasicBinaryContentService 로깅추가" />
+    <MESSAGE value="BasicChannelService 로깅 추가" />
+    <MESSAGE value="BasicMessageService 로깅 추가" />
+    <MESSAGE value="Exception 핸들링 처리" />
+    <MESSAGE value="UserRepositoryTest 테스트" />
+    <MESSAGE value="Yaml 파일 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yaml 파일 수정" />
+  </component>
+</project>
